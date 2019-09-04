@@ -6,13 +6,12 @@
 
 ##### Let me start with this beautiful turtle
 
-![Alt text] (760E1469-D8F8-4C23-9AAC-7DECB5AED10C.jpeg?raw=true)
+<img src="760E1469-D8F8-4C23-9AAC-7DECB5AED10C.jpeg" width="350" height="350" title="Awww cute turtle">
 
-
-![alt Woof.. wolf] (https://github.com/samipk/fairfax-county/blob/master/03012EEA-2FD8-462B-9D86-477A30D79693.jpeg)
+##### How about a wolf ?
+<img src="03012EEA-2FD8-462B-9D86-477A30D79693.jpeg" width="350" height="350" title="Did I scare you ?">
 
 ##### Next How about a pencil shade of some fruits. I learnt this in my art class.
-
-![alt some fruits !!] (https://github.com/samipk/fairfax-county/blob/master/03012EEA-2FD8-462B-9D86-477A30D79693.jpeg)
+<img src="03012EEA-2FD8-462B-9D86-477A30D79693.jpeg.jpeg" width="350" height="350" title="An apple a day ?">
 
 #### How do you like it ? Oh, want a high profile picture, contact me
