@@ -1,4 +1,4 @@
-## Welcome to my fairfax community page
+## Welcome to my art page
 
 ### Hi welcome to my my attempt and making STEM into STEAM by adding Art into my STEM. I am a nature lover, what you see below are some of the pictures I have done inspired by nature. 
 
