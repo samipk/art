@@ -6,7 +6,7 @@
 
 ##### Let me start with this beautiful turtle
 
-![alt text] (760E1469-D8F8-4C23-9AAC-7DECB5AED10C.jpeg)
+![Alt text] (760E1469-D8F8-4C23-9AAC-7DECB5AED10C.jpeg?raw=true)
 
 
 ![alt Woof.. wolf] (https://github.com/samipk/fairfax-county/blob/master/03012EEA-2FD8-462B-9D86-477A30D79693.jpeg)
